@@ -30,7 +30,7 @@ if (currentDay === 6) {
 } else if (currentDay === 5) {
   console.log("Prime Numbers (if date is 5): ", num);
 } else {
-  console.log("Invalid Input");
+  console.log("Something Went Wrong!");
 }
 
 // 2 variable -> static dates
